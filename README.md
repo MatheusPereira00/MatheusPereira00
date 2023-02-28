@@ -1,9 +1,9 @@
 ## Hello World!👋
   
   
-:computer: I´m Giselle Barbosa  
+:computer: I´m Matheus Pereira  
 :earth_americas: From São Paulo - Brazil  
-:mortar_board: Systems Analysis and Development Student  
+:mortar_board: computer science student 
 :briefcase: Front-end Developer Intern at IBM Brazil  
 :seedling: Learning Angular  
   
@@ -31,22 +31,9 @@ These are some of the technologies and tools that I work with:
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
  </div> 
  
-____   
+ __
+
  
- ### Contact
-
-[![Linkedin: Giselle](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gisellebarb/)](https://www.linkedin.com/in/gisellebarb/) 
-[![Gmail: Giselle](https://img.shields.io/badge/Gmail-D14836?style=style=flat-square&logo=gmail&logoColor=white&link=mailto:giselle.barbosadev@gmail.com)](mailto:giselle.barbosadev@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=style=flat-square&logo=github&logoColor=white&link=https://gisellebarbosa.github.io/portfolio/)](https://gisellebarbosa.github.io/portfolio/)
-
-____
-
-<div align="center" style="display: inline_block">
- <a href="https://github.com/GiselleBarbosa">
-  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api?username=GiselleBarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="center" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiselleBarbosa&layout=compact&langs_count=7&theme=dracula"/></a></div> 
-  
-____
 <div align="center"> 
   
  ![Snake animation](https://github.com/GiselleBarbosa/GiselleBarbosa/blob/output/github-contribution-grid-snake.svg)
