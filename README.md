@@ -36,6 +36,6 @@ These are some of the technologies and tools that I work with:
  
 <div align="center"> 
   
- ![Snake animation](https://github.com/GiselleBarbosa/GiselleBarbosa/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/MatheusPereira/MatheusPereira/blob/output/github-contribution-grid-snake.svg)
 
 <div> 
