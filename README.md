@@ -1,4 +1,4 @@
-## Hello World!👋
+## Hello World!
   
   
 :computer: I´m Matheus Pereira  
