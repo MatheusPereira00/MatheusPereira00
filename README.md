@@ -7,7 +7,6 @@
 :briefcase: Front-end Developer Intern at IBM Brazil  
 :seedling: Learning Angular  
 <h1 align="center">Hi 👋, I'm Matheus Pereira</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
