@@ -1,6 +1,3 @@
-## Hello World!!
-  
-  
 :computer: I´m Matheus Pereira  
 :earth_americas: From São Paulo - Brazil  
 :mortar_board: computer science student 
