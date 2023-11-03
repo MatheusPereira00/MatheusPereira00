@@ -3,8 +3,8 @@
 
 :earth_americas: From São Paulo - Brazil  
 :mortar_board: computer science student
-:briefcase: Front-end Developer Intern at IBM Brazil  
-:seedling: Learning Angular  
+:briefcase: Full Stack Developer at IBM Brazil  
+:seedling: Learning Angular && Java 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
