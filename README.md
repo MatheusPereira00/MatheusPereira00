@@ -4,7 +4,7 @@
 :earth_americas: From São Paulo - Brazil  
 :mortar_board: computer science student
 :briefcase: Full Stack Developer at IBM Brazil  
-:seedling: Learning Angular && Java 
+:seedling: Learning Angular - Java 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
