@@ -1,14 +1,12 @@
 
-
 <h1 align="center">Hi 👋, I'm Matheus Pereira</h1>
-<h3 align="left">Connect with me:</h3>
 
-:computer: I´m Matheus Pereira  
 :earth_americas: From São Paulo - Brazil  
 :mortar_board: computer science student 
 :briefcase: Front-end Developer Intern at IBM Brazil  
 :seedling: Learning Angular  
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/matheuspereira00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheuspereira00/" height="30" width="40" /></a>
 </p>
