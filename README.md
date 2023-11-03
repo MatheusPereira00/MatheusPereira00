@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Matheus Pereira</h1>
 
 :earth_americas: From São Paulo - Brazil  
-:mortar_board: computer science student 
+:mortar_board: computer science student
 :briefcase: Front-end Developer Intern at IBM Brazil  
 :seedling: Learning Angular  
 
