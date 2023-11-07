@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Matheus Pereira</h1>
+<h1 align="right">Hello friend, I'm Matheus Pereira</h1>
 
 :earth_americas: From São Paulo - Brazil  
 :mortar_board: computer science student
