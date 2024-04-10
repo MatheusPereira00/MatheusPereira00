@@ -28,9 +28,3 @@
   <img height="35" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andregpereira&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<p>
-  <a href="https://www.linkedin.com/in/matheuspereira00/"> <img height="35" alt="LinkedIn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-</p>
