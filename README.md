@@ -28,3 +28,8 @@
   <img height="35" alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg">
 </p>
 
+<br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuspereira00&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheuspereira00&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
