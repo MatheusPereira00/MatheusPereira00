@@ -7,11 +7,19 @@
 :seedling: Learning Angular - Java 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/matheuspereira00/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheuspereira00/" height="30" width="40" /></a>
 
-<a href="https://profile-project-neon.vercel.app/#/"><img alt="portfolio" width="42px" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT05LtKjGt0_9FVEDEW5LqDDW8fGCoBJKUgnUbMI2zqKCdZSM28" /></a>
+<p><a href="https://www.linkedin.com/in/matheuspereira00/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matheuspereira00/" height="30" width="40" />
+</a></p>
+
+<p>
+ <a href="https://profile-project-neon.vercel.app/#/">
+<img alt="portfolio" width="42px" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT05LtKjGt0_9FVEDEW5LqDDW8fGCoBJKUgnUbMI2zqKCdZSM28" />
+  </a>
 </p>
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
