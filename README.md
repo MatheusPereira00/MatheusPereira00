@@ -3,8 +3,7 @@
 
 :earth_americas: From São Paulo - Brazil  
 :mortar_board: Computer Science Student
- and Full Stack Developer at IBM Brazil  
-:seedling: Learning Angular - Java 
+ and Application Developer Bradesco through IBM
 
 <h3 align="left">Connect with me:</h3>
 
