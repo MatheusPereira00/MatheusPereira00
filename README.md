@@ -3,7 +3,7 @@
 
 :earth_americas: From São Paulo - Brazil  
 :mortar_board: Computer Science Student
- and Application Developer Bradesco through IBM
+ and Application Developer IBM
 
 <h3 align="left">Connect with me:</h3>
 
